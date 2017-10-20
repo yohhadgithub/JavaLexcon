@@ -1,1 +1,1 @@
-This is read me
+This is my Lexcon java Development documnets
