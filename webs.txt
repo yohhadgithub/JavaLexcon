@@ -1,0 +1,2 @@
+https://www.pivotaltracker.com
+http://plantuml.com/class-diagram
